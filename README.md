@@ -1,6 +1,6 @@
 # kottans-frontend
 
-________________________________________________
+---
 
 ## [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
 
@@ -18,3 +18,22 @@ But now I figured out one thing. When you meet your new working team, you have t
 important question: 
 
 **What do you prefer, guys? Merge or rebase?**
+
+---
+
+## [Linux CLI, and HTTP](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
+
+![Linux cli screenshot](/task_linux_cli/kollazh_1.png)
+
+### What was new: 
+
+Possibility to print something right from console was really new for me. 
+
+### What surprised me: 
+
+The same as the new one... 
+
+### What I'm going to use in future:
+
+Hmmm... I use console commands every day on my Linux laptop for different administrative tasks, for git, for ssh remote control...
+So I'm going to use all of these commands as long as I could... next 50 years at least, I hope... )))))
