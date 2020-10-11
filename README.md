@@ -9,7 +9,6 @@ ________________________________________________
 - [x] Practice cource [Learn Git Branching](https://learngitbranching.js.org/). It was just like a game!
 
 I bookmarked this one [Git Cheat Sheets](https://training.github.com/downloads/github-git-cheat-sheet/) because I hope it can help me in the future for sure. 
-(https://github.com/andrewklmn/markdown-portfolio/issues/1)
 
 [What is Markdown?](https://github.com/andrewklmn/markdown-portfolio/issues/1) is great tutorial about how to use Markdown on Github.
 
