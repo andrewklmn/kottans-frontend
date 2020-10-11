@@ -13,7 +13,7 @@ I bookmarked this one [Git Cheat Sheets](https://training.github.com/downloads/g
 [What is Markdown?](https://github.com/andrewklmn/markdown-portfolio/issues/1) is great tutorial about how to use Markdown on Github.
 
 ### My impressions:
-I have been using git for my home projects just as a remote backup system for long period. 
+I have been using git and github for my home projects just as a remote backup system for long period. 
 But now I figured out one thing. When you meet your new working team, you have to ask one 
 important question: 
 
