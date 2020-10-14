@@ -51,3 +51,18 @@ I have used one new piece of knowledge about collaboration work during those les
 I have fetched from upstream repository new commits to my local repository and have rebased and pushed to my fork on Github. It brought my fork to the upstream actual state with console commands just in my local repo! This is amazing! )))
 
 I was surprised that Github Pull Request workflow is so useful, simple, and comfortable for making changes in my pull request to kottans/mock-repo.
+
+---
+
+## [Intro to HTML and CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
+
+>"Repetition is the mother of mastery."
+>*&copy; John Doe*
+
+![Udacity Course](task_html_css_intro/ud_html_css.gif) 
+
+![Codecademy Course](task_html_css_intro/codecademy_html.gif)
+
+These short courses are a great reminder about the roots of Front-end Web Development. It is impossible to do something in this sphere without these basic pieces of knowledge.
+
+By the way, optional materials are a little more exciting: [https://www.freecodecamp.org/andrewklmn](https://www.freecodecamp.org/andrewklmn)
