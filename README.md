@@ -40,3 +40,13 @@ So I'm going to use all of these commands as long as I could... next 50 years at
 
 ### Some summary about my HTTP knowledge:
 Of course, I have used GET and POST requests in my project. But now I want to have a task in the future where I can use PUT, DELETE, HEAD, and OPTION... 
+
+---
+
+## [Git Collaboration](https://classroom.udacity.com/courses/ud456)
+
+![Lesson results](/task_git_collaboration/git_collab_lessons.gif)
+
+I have used one new piece of knowledge about collaboration work during those lessons. 
+I have fetched from upstream repository new commits to my local repository and have rebased and pushed my fork on Github. It brought my fork to the upstream actual state with console commands just in my local repo! This is amazing! )))
+I was surprised that Github Pull Request workflow is so useful, simple, and comfortable for making changes in my pull request to kottans/mock-repo.
