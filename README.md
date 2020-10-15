@@ -59,9 +59,10 @@ I was surprised that Github Pull Request workflow is so useful, simple, and comf
 >"Repetition is the mother of mastery."
 >*&copy; John Doe*
 
-![Udacity Course](task_html_css_intro/ud_html_css.gif) [Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+[![Udacity Course](task_html_css_intro/ud_html_css.gif)](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 
-![Codecademy Course](task_html_css_intro/codecademy_html.gif) [Learn HTML](https://www.codecademy.com/learn/learn-html)
+
+[![Codecademy Course](task_html_css_intro/codecademy_html.gif)](https://www.codecademy.com/learn/learn-html)
 
 These short courses are a great reminder about the roots of Front-end Web Development. It is impossible to do something in this sphere without these basic pieces of knowledge.
 
