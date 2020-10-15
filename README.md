@@ -23,7 +23,17 @@ important question:
 
 ## [Linux CLI, and HTTP](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
 
-![Linux cli screenshot](/task_linux_cli/kollazh_1.png)
+<details>
+  <summary>
+    Screenshot of quizzes
+  </summary>
+  <p>
+
+  ![Linux cli screenshot](/task_linux_cli/kollazh_1.png)
+
+  </p>
+</details>
+
 
 ### What was new: 
 
@@ -59,8 +69,18 @@ I was surprised that Github Pull Request workflow is so useful, simple, and comf
 >"Repetition is the mother of mastery."
 >*&copy; John Doe*
 
-[![Udacity Course](task_html_css_intro/ud_html_css.gif)](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+<details>
+  <summary>
+    Screenshot of Udacity HTML CSS Intro Course
+  </summary>
+  <p>
 
+  [![Udacity Course](task_html_css_intro/ud_html_css.gif)](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+
+  </p>
+</details>
+
+And this one from Codecademy Learn HTML Course:
 
 [![Codecademy Course](task_html_css_intro/codecademy_html.gif)](https://www.codecademy.com/learn/learn-html)
 
