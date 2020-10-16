@@ -87,3 +87,9 @@ And this one from Codecademy Learn HTML Course:
 These short courses are a great reminder about the roots of Front-end Web Development. It is impossible to do something in this sphere without these basic pieces of knowledge.
 
 By the way, optional materials are a little more exciting: [https://www.freecodecamp.org/andrewklmn](https://www.freecodecamp.org/andrewklmn)
+
+---
+
+## [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
+
+[![Responsive Web Design Fundamentals](task_html_css_intro/codecademy_html.gif)](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
