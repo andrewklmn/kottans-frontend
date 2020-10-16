@@ -92,4 +92,21 @@ By the way, optional materials are a little more exciting: [https://www.freecode
 
 ## [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
 
-[![Responsive Web Design Fundamentals](task_html_css_intro/codecademy_html.gif)](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+- [x] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) on Udacity.
+- [x] [Flexbox Froggy](http://flexboxfroggy.com/)
+
+[![Responsive Web Design Fundamentals](task_responsive_web_design/responsive_css_udacity.gif)](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+
+[![Responsive Web Design Fundamentals](task_responsive_web_design/froggy.png)](http://flexboxfroggy.com/)
+
+### What was new: 
+
+Udacity course has clarified for me the situation with responsive web design using CSS at last. No more Bootstrap magic!
+
+### What surprised me: 
+
+I have used Bootstrap in my projects for responsive pages, but now I can do this stuff even without Bootstrap!
+
+### What I'm going to use in future:
+
+Breakpoint selection, media queries, responsive tables, and flexbox - I have all of them in my toolbox now.
