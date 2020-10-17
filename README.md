@@ -1,5 +1,12 @@
 # kottans-frontend
 
+- [X] [Git Basics](#git-basics)
+- [X] [Linux CLI, and HTTP](#linux-cli)
+- [X] [Git Collaboration](#git-collaboration)
+- [X] [Intro to HTML and CSS](#intro-to-html-and-css)
+- [X] [Responsive Web Design](#responsive-web-design)
+
+
 ---
 
 ## [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
@@ -94,10 +101,13 @@ By the way, optional materials are a little more exciting: [https://www.freecode
 
 - [x] [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) on Udacity.
 - [x] [Flexbox Froggy](http://flexboxfroggy.com/)
+- [x] [Grid Garden](http://cssgridgarden.com/)
 
 [![Responsive Web Design Fundamentals](task_responsive_web_design/responsive_css_udacity.gif)](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
-[![Responsive Web Design Fundamentals](task_responsive_web_design/froggy.png)](http://flexboxfroggy.com/)
+[![Flexbox Froggy](task_responsive_web_design/froggy.png)](http://flexboxfroggy.com/)
+
+[![Grid Garden](task_responsive_web_design/grid_garden_css.gif)](http://cssgridgarden.com/)
 
 ### What was new: 
 
@@ -109,4 +119,4 @@ I have used Bootstrap in my projects for responsive pages, but now I can do this
 
 ### What I'm going to use in future:
 
-Breakpoint selection, media queries, responsive tables, and flexbox - I have all of them in my toolbox now.
+Breakpoint selection, media queries, responsive tables, grid and flexbox - I have all of them in my toolbox now.
