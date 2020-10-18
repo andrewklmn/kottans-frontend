@@ -129,3 +129,8 @@ Breakpoint selection, media queries, responsive tables, grid and flexbox - I hav
 This task was developed without JS. And was tested in FF and Google Chrome (Linux and Windows both).
 
 ![Screenshot](https://github.com/andrewklmn/andrewklmn.github.io/blob/master/html-css-popup/img/screenshot.png)
+
+[Demo is here](https://andrewklmn.github.io/html-css-popup/)
+
+[Code is here](https://github.com/andrewklmn/andrewklmn.github.io/tree/master/html-css-popup)
+
