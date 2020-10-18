@@ -5,6 +5,7 @@
 - [X] [Git Collaboration](#git-collaboration)
 - [X] [Intro to HTML and CSS](#intro-to-html-and-css)
 - [X] [Responsive Web Design](#responsive-web-design)
+- [X] [HTML & CSS practice](#html-&-css-practice)
 
 
 ---
@@ -120,3 +121,11 @@ I have used Bootstrap in my projects for responsive pages, but now I can do this
 ### What I'm going to use in future:
 
 Breakpoint selection, media queries, responsive tables, grid and flexbox - I have all of them in my toolbox now.
+
+---
+
+## HTML & CSS practice
+
+This task was developed without JS. And was tested in FF and Google Chrome (Linux and Windows both).
+
+![Screenshot](https://github.com/andrewklmn/andrewklmn.github.io/blob/master/html-css-popup/img/screenshot.png)
