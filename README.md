@@ -5,7 +5,7 @@
 - [X] [Git Collaboration](#git-collaboration)
 - [X] [Intro to HTML and CSS](#intro-to-html-and-css)
 - [X] [Responsive Web Design](#responsive-web-design)
-- [X] [HTML & CSS practice](#html-&-css-practice)
+- [X] [HTML & CSS practice](#html-and-css-practice)
 
 
 ---
@@ -124,7 +124,7 @@ Breakpoint selection, media queries, responsive tables, grid and flexbox - I hav
 
 ---
 
-## HTML & CSS practice
+## [HTML and CSS practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
 
 This task was developed without JS. And was tested in FF and Google Chrome (Linux and Windows both).
 
