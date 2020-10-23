@@ -6,6 +6,7 @@
 - [X] [Intro to HTML and CSS](#intro-to-html-and-css)
 - [X] [Responsive Web Design](#responsive-web-design)
 - [X] [HTML & CSS practice](#html-and-css-practice)
+- [X] [JavaScript Basics](#javascript-basics)
 
 
 ---
@@ -134,3 +135,22 @@ This task was developed without JS. And was tested in FF and Google Chrome (Linu
 
 [Code is here](https://github.com/andrewklmn/andrewklmn.github.io/tree/master/html-css-popup)
 
+---
+
+## [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
+
+
+[![Screenshot Udacity](task_js_basics/js_basics_1.gif)](https://www.udacity.com/course/intro-to-javascript--ud803)
+
+[![Screenshot freecodecamp](task_js_basics/freecode_camp.png)](https://www.freecodecamp.org/andrewklmn)
+
+
+I like [freecodecamp.org](http://freecodecamp.org) very much and even have earned few certificates:
+- [Responsive Web Design](https://www.freecodecamp.org/certification/andrewklmn/responsive-web-design)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/andrewklmn/javascript-algorithms-and-data-structures)
+- [Data Visualization](https://www.freecodecamp.org/certification/andrewklmn/data-visualization)
+- [Front End Libraries](https://www.freecodecamp.org/certification/andrewklmn/front-end-libraries)
+
+There are my study projects from these courses on Codepen.io: [https://codepen.io/andrewklmn/](https://codepen.io/andrewklmn/)
+
+I feel ready to write code now!... ))) 
