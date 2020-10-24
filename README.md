@@ -7,6 +7,7 @@
 - [X] [Responsive Web Design](#responsive-web-design)
 - [X] [HTML & CSS practice](#html-and-css-practice)
 - [X] [JavaScript Basics](#javascript-basics)
+- [X] [Document Object Model](#document-object-model)
 
 
 ---
@@ -154,3 +155,12 @@ I like [freecodecamp.org](http://freecodecamp.org) very much and even have earne
 There are my study projects from these courses on Codepen.io: [https://codepen.io/andrewklmn/](https://codepen.io/andrewklmn/)
 
 I feel ready to write code now!... ))) 
+
+---
+
+## [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md)
+
+[![Screenshot Udacity](task_js_dom/js_and_the_dom_done.png)](https://classroom.udacity.com/courses/ud117)
+
+[![Screenshot freecodecamp](task_js_dom/freecodecamp_done.png)](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+
