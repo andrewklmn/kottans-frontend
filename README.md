@@ -164,3 +164,20 @@ I feel ready to write code now!... )))
 
 [![Screenshot freecodecamp](task_js_dom/freecodecamp_done.png)](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
 
+### What was new: 
+- Phases of JavaScript Event · Capturing, Target, and Bubbling.
+- classList methods:
+   - classList. add/remove("class") – adds/removes the class.
+   - classList. toggle("class") – adds the class if it doesn't exist, otherwise removes it.
+   - classList. contains("class") – checks for the given class, returns true/false .
+    
+### What surprised me: 
+document.querySelector(), document.querySelectorAll() - these are just cool stuff.
+I don't need Jquery anymore! )))
+
+### What I'm going to use in future:
+All of these things above.
+
+### Some summary about DOM knowledge:
+I have used this new stuff in my [practice project](https://github.com/kottans/frontend-2021-homeworks/tree/main/submissions/andrewklmn/task_js_dom).
+DOM knowledge helps to write simple clean code.
