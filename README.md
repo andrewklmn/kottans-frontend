@@ -199,4 +199,14 @@ DOM knowledge helps to write simple clean code.
 
 ### [Object-Oriented JavaScript](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md)
 
+[![Screenshot Udacity](task_js_oop/s1.gif)](https://classroom.udacity.com/courses/ud015)
 
+[![Screenshot Codewars](task_js_oop/codewars.png)](https://www.codewars.com/users/andrewklmn)
+
+### What was new: 
+
+### What surprised me: 
+
+### What I'm going to use in future:
+
+### Some summary about DOM knowledge:
