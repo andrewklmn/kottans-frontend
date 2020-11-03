@@ -1,13 +1,16 @@
 # kottans-frontend
 
 - [X] [Git Basics](#git-basics)
-- [X] [Linux CLI, and HTTP](#linux-cli)
+- [X] [Linux CLI, and HTTP](#linux-cli-and-http)
 - [X] [Git Collaboration](#git-collaboration)
 - [X] [Intro to HTML and CSS](#intro-to-html-and-css)
 - [X] [Responsive Web Design](#responsive-web-design)
 - [X] [HTML & CSS practice](#html-and-css-practice)
 - [X] [JavaScript Basics](#javascript-basics)
 - [X] [Document Object Model](#document-object-model)
+- [X] [Building a Tiny JS World](#building-a-tiny-js-world))
+- [X] [Object-Oriented JavaScript](#object-oriented-javascript)
+
 
 
 ---
@@ -181,3 +184,19 @@ All of these things above.
 ### Some summary about DOM knowledge:
 I have used this new stuff in my [practice project](https://github.com/kottans/frontend-2021-homeworks/tree/main/submissions/andrewklmn/task_js_dom).
 DOM knowledge helps to write simple clean code.
+
+---
+
+### [Building a Tiny JS World](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md)
+
+![Screenshot](task_tiny_js_world/tiny-js-world.png)
+
+[Demo is here](https://andrewklmn.github.io/a-tiny-JS-world/)
+
+[Code is here](https://github.com/kottans/frontend-2021-homeworks/blob/main/submissions/andrewklmn/a-tiny-js-world/index.js)
+
+---
+
+### [Object-Oriented JavaScript](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md)
+
+
