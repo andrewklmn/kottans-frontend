@@ -207,7 +207,7 @@ DOM knowledge helps to write simple clean code.
 Possibility of class definition and usage just with functional mechanism. 
 
 ### What surprised me: 
-JS allows implementing inheritance with a functional mechanism. It looks very cool!
+JS allows to implement inheritance with a functional mechanism. It looks very cool!
 Prototype chains in case with methods looks similar to virtual functions in C++. I didn't wait to face it in JS.
 
 ### What I'm going to use in future:
