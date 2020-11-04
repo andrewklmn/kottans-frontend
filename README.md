@@ -204,9 +204,12 @@ DOM knowledge helps to write simple clean code.
 [![Screenshot Codewars](task_js_oop/codewars.png)](https://www.codewars.com/users/andrewklmn)
 
 ### What was new: 
+Possibility of class definition and usage just with functional mechanism. 
 
 ### What surprised me: 
+JS allows implementing inheritance with a functional mechanism. It looks very cool!
+Prototype chains in case with methods looks similar to virtual functions in C++. I didn't wait to face it in JS.
 
 ### What I'm going to use in future:
-
-### Some summary about DOM knowledge:
+I have used these new pieces of knowledge in my practice task Frogger Game.
+My [task code](https://github.com/kottans/frontend-2021-homeworks/pull/67) looks very short, laconic and clear with it.
