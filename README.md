@@ -222,6 +222,8 @@ My [task code](https://github.com/kottans/frontend-2021-homeworks/pull/67) looks
 
 [Code is here](https://github.com/andrewklmn/frontend-2021-homeworks/blob/main/submissions/andrewklmn/a-tiny-js-world/index.js)
 
+[PR is here](https://github.com/kottans/frontend-2021-homeworks/pull/72)
+
 It was first usage of my new experience with definition of classes with functional mechanism from previous task. 
 But at the end, at suggestion of mentors, I refactored  my code with ES6 classes. ))))
 
