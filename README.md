@@ -10,7 +10,7 @@
 - [X] [Document Object Model](#document-object-model)
 - [X] [Building a Tiny JS World](#building-a-tiny-js-world))
 - [X] [Object-Oriented JavaScript](#object-oriented-javascript)
-
+- [X] [OOP exercise](#oop-exercise)
 
 
 ---
@@ -213,3 +213,15 @@ Prototype chains in case with methods looks similar to virtual functions in C++.
 ### What I'm going to use in future:
 I have used these new pieces of knowledge in my practice task Frogger Game.
 My [task code](https://github.com/kottans/frontend-2021-homeworks/pull/67) looks very short, laconic and clear with it.
+
+---
+
+### [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
+
+[Demo is here](https://andrewklmn.github.io/a-tiny-JS-world/)
+
+[Code is here](https://github.com/andrewklmn/frontend-2021-homeworks/blob/main/submissions/andrewklmn/a-tiny-js-world/index.js)
+
+It was first usage of my new experience with definition of classes with functional mechanism from previous task. 
+But at the end, at suggestion of mentors, I refactored  my code with ES6 classes. ))))
+
