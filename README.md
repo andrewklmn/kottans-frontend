@@ -11,6 +11,7 @@
 - [X] [Building a Tiny JS World](#building-a-tiny-js-world))
 - [X] [Object-Oriented JavaScript](#object-oriented-javascript)
 - [X] [OOP exercise](#oop-exercise)
+- [X] [Offline Web Applications ](#offline-web-applications)
 
 
 ---
@@ -227,3 +228,24 @@ My [task code](https://github.com/kottans/frontend-2021-homeworks/pull/67) looks
 It was first usage of my new experience with definition of classes with functional mechanism from previous task. 
 But at the end, at suggestion of mentors, I refactored  my code with ES6 classes. ))))
 
+---
+
+### [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
+
+
+[![Screenshot Udacity](task_offline_web_app/wittr_finished.png)](https://www.udacity.com/course/offline-web-applications--ud899)
+
+![Gif with some stage](task_offline_web_app/offline_course.gif)
+
+### What was new:
+Service Workers, IndexedDB, Advanced using of the cache.
+
+### What surprised me:
+Nowadays modern browsers let developers build offline web applications with a wide range of storage usage.
+Service Workers can control even the versions of CSS files on the browser site.
+So it seems like a full range of backend features in the browser just under the hood.
+It is possible to build a web app that can run without any interaction with networks after first loading from a remote site.
+
+### What I'm going to use in the future:
+I have forked wittr project to my Github profile. And I'm going to use it as a workbook in the future.
+I'm going to rebuild one of my home projects as an offline app with these new pieces of knowledge.
