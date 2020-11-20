@@ -252,11 +252,15 @@ I'm going to rebuild one of my home projects as an offline app with these new pi
 
 ---
 
-### Memory Pair Game
+### [Memory Pair Game](https://github.com/andrewklmn/frontend/blob/master/tasks/memory-pair-game.md)
 
-Demo is here
-Code is here.
-PR is here.
+![Screenshot](memory-pair-game/memory-pair-game.gif)
+
+[Demo is here](https://andrewklmn.github.io/memory-pair-game/)
+
+[Code is here](https://github.com/kottans/frontend-2021-homeworks/tree/main/submissions/andrewklmn/memory-pair-game)
+
+[PR is here](https://github.com/kottans/frontend-2021-homeworks/pull/101)
 
 Special thanks to MadmaxWMFU! )))
 
