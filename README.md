@@ -12,7 +12,7 @@
 - [X] [Object-Oriented JavaScript](#object-oriented-javascript)
 - [X] [OOP exercise](#oop-exercise)
 - [X] [Offline Web Applications ](#offline-web-applications)
-
+- [X] [Memory Pair Game](#memory-pair-game)
 
 ---
 
@@ -249,3 +249,15 @@ It is possible to build a web app that can run without any interaction with netw
 ### What I'm going to use in the future:
 I have forked wittr project to my Github profile. And I'm going to use it as a workbook in the future.
 I'm going to rebuild one of my home projects as an offline app with these new pieces of knowledge.
+
+---
+
+### Memory Pair Game
+
+Demo is here
+Code is here.
+PR is here.
+
+Special thanks to MadmaxWMFU! )))
+
+---
