@@ -8,7 +8,7 @@
 - [X] [HTML & CSS practice](#html-and-css-practice)
 - [X] [JavaScript Basics](#javascript-basics)
 - [X] [Document Object Model](#document-object-model)
-- [X] [Building a Tiny JS World](#building-a-tiny-js-world))
+- [X] [Building a Tiny JS World](#building-a-tiny-js-world)
 - [X] [Object-Oriented JavaScript](#object-oriented-javascript)
 - [X] [OOP exercise](#oop-exercise)
 - [X] [Offline Web Applications ](#offline-web-applications)
@@ -268,5 +268,7 @@ Special thanks to MadmaxWMFU! )))
 ---
 
 ### [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
+
+[![Website Performance Optimization](task_website_performance/udacity_screenshot.gif)](https://www.udacity.com/course/ud884)
 
 
