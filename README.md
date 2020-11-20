@@ -13,6 +13,7 @@
 - [X] [OOP exercise](#oop-exercise)
 - [X] [Offline Web Applications ](#offline-web-applications)
 - [X] [Memory Pair Game](#memory-pair-game)
+- [ ] [Website Performance Optimization](#website-performance-optimization)
 
 ---
 
@@ -265,3 +266,7 @@ I'm going to rebuild one of my home projects as an offline app with these new pi
 Special thanks to MadmaxWMFU! )))
 
 ---
+
+### [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
+
+
