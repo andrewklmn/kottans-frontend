@@ -277,7 +277,7 @@ Special thanks to MadmaxWMFU! )))
   </summary>
   <p>
 
-  ![Pizza screenshot](task_website_performance/udacity_screenshot.gif)
+  ![Pizza screenshot](task_website_performance/result_of_pizza_optimization.gif)
 
   </p>
 </details>
