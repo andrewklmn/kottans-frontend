@@ -271,4 +271,13 @@ Special thanks to MadmaxWMFU! )))
 
 [![Website Performance Optimization](task_website_performance/udacity_screenshot.gif)](https://www.udacity.com/course/ud884)
 
+<details>
+  <summary>
+    Screenshot of Pizza web app optimization result.
+  </summary>
+  <p>
 
+  ![Pizza screenshot](task_website_performance/udacity_screenshot.gif)
+
+  </p>
+</details>
