@@ -42,11 +42,8 @@ important question:
   <summary>
     Screenshot of quizzes
   </summary>
-  <p>
-
+  
   ![Linux cli screenshot](/task_linux_cli/kollazh_1.png)
-
-  </p>
 </details>
 
 
@@ -88,11 +85,8 @@ I was surprised that Github Pull Request workflow is so useful, simple, and comf
   <summary>
     Screenshot of Udacity HTML CSS Intro Course
   </summary>
-  <p>
-
+  
   [![Udacity Course](task_html_css_intro/ud_html_css.gif)](https://www.udacity.com/course/intro-to-html-and-css--ud304)
-
-  </p>
 </details>
 
 And this one from Codecademy Learn HTML Course:
@@ -273,11 +267,8 @@ Special thanks to MadmaxWMFU! )))
 
 <details>
   <summary>
-    Screenshot of Pizza web app optimization result.
+    Screenshot of Pizza web app Pagespeed Insights index before and after optimization.
   </summary>
-  <p>
-
+  
   ![Pizza screenshot](task_website_performance/result_of_pizza_optimization.gif)
-
-  </p>
 </details>
