@@ -284,7 +284,7 @@ Special thanks to MadmaxWMFU! )))
   
   Of course it must be querySelectorAll('p')... 
 
-  ### Optimization solution doesn't work!
+  ### Example of Udacity optimization solution slows down the browser!
 
   ![Optimization from answer doesn't work](task_website_performance/wrong_optimization.gif)
   
