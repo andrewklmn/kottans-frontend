@@ -280,7 +280,7 @@ Special thanks to MadmaxWMFU! )))
 
   ### That code can't get that result!
 
-  ![Wrong selector](task_website_performance/wrong_method.png)
+  [![Wrong selector](task_website_performance/wrong_method.png)](https://classroom.udacity.com/courses/ud860/lessons/4147498575/concepts/41331086040923)
   
   Of course it must be querySelectorAll('p')... 
 
