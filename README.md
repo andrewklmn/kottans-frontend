@@ -272,3 +272,22 @@ Special thanks to MadmaxWMFU! )))
   
   ![Pizza screenshot](task_website_performance/result_of_pizza_optimization.gif)
 </details>
+
+<details>
+  <summary>
+    Mistakes and strange result in Udacity Browser Rendering Optimization Course.
+  </summary>
+
+  ### That code can't get that result!
+
+  ![Wrong selector](task_website_performance/wrong_method.png)
+  
+  Of course it must be querySelectorAll('p')... 
+
+  ### Optimization solution doesn't work!
+
+  ![Optimization from answer doesn't work](task_website_performance/wrong_optimization.gif)
+  
+  May be it's because this example is 6 years old. It seems like new browsers have better optimization mechanism.
+
+</details>
