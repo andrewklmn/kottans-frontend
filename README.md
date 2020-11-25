@@ -291,3 +291,7 @@ Special thanks to MadmaxWMFU! )))
   May be it's because this example is 6 years old. It seems like new browsers have better optimization mechanism.
 
 </details>
+
+  ## 🐈
+  
+  
