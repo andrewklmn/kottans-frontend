@@ -263,6 +263,8 @@ Special thanks to MadmaxWMFU! )))
 
 ### [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
 
+### Website Performance Optimization, Udacity Course by Google
+
 [![Website Performance Optimization](task_website_performance/udacity_screenshot.gif)](https://www.udacity.com/course/ud884)
 
 <details>
@@ -271,6 +273,7 @@ Special thanks to MadmaxWMFU! )))
   </summary>
   
   ![Pizza screenshot](task_website_performance/result_of_pizza_optimization.gif)
+  
 </details>
 
 <details>
@@ -292,6 +295,31 @@ Special thanks to MadmaxWMFU! )))
 
 </details>
 
-  ## 🐈
+### Browser Rendering Optimization, Udacity Course by Google
+
+[![Browser Rendering Optimization screenshot](task_website_performance/screenshot_of_browser_rendering_optim.gif)](https://classroom.udacity.com/courses/ud860)
+
+<details>
+  <summary>
+    Screenshot of optimized projects.
+  </summary>
   
+   ![Screenshot of optimized projects](task_website_performance/hacker_app_optimization_result.gif)
+   
+</details>
+
+### Responsive Images, Udacity Course by Google
+
+[![Responsive Images screenshot](task_website_performance/screenshot_of_browser_rendering_optim.gif)](https://classroom.udacity.com/courses/ud882)
+
+<details>
+  <summary>
+    Screenshot of responsive images project.
+  </summary>
+  
+  ![Screenshot of responsive images project](task_website_performance/screenshot_of_responsive_images.gif)
+  
+</details>
+  
+# 🐈 🐈 🐈 🐈 🐈 🐈 🐈 🐈 🐈 🐈
   
