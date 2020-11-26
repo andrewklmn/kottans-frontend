@@ -13,7 +13,7 @@
 - [X] [OOP exercise](#oop-exercise)
 - [X] [Offline Web Applications ](#offline-web-applications)
 - [X] [Memory Pair Game](#memory-pair-game)
-- [ ] [Website Performance Optimization](#website-performance-optimization)
+- [X] [Website Performance Optimization](#website-performance-optimization)
 
 ---
 
@@ -263,7 +263,7 @@ Special thanks to MadmaxWMFU! )))
 
 ### [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
 
-### Website Performance Optimization, Udacity Course by Google
+#### Website Performance Optimization, Udacity Course by Google:
 
 [![Website Performance Optimization](task_website_performance/udacity_screenshot.gif)](https://www.udacity.com/course/ud884)
 
@@ -281,13 +281,13 @@ Special thanks to MadmaxWMFU! )))
     Mistakes and strange result in Udacity Browser Rendering Optimization Course.
   </summary>
 
-  ### That code can't get that result!
+  ##### That code can't get that result!
 
   [![Wrong selector](task_website_performance/wrong_method.png)](https://classroom.udacity.com/courses/ud860/lessons/4147498575/concepts/41331086040923)
   
   Of course it must be querySelectorAll('p')... 
 
-  ### Example of Udacity optimization solution slows down the browser!
+  ##### Example of Udacity optimization solution slows down the browser!
 
   ![Optimization from answer doesn't work](task_website_performance/wrong_optimization.gif)
   
@@ -295,7 +295,9 @@ Special thanks to MadmaxWMFU! )))
 
 </details>
 
-### Browser Rendering Optimization, Udacity Course by Google
+---
+
+#### Browser Rendering Optimization, Udacity Course by Google:
 
 [![Browser Rendering Optimization screenshot](task_website_performance/screenshot_of_browser_rendering_optim.gif)](https://classroom.udacity.com/courses/ud860)
 
@@ -308,7 +310,9 @@ Special thanks to MadmaxWMFU! )))
    
 </details>
 
-### Responsive Images, Udacity Course by Google
+---
+
+#### Responsive Images, Udacity Course by Google:
 
 [![Responsive Images screenshot](task_website_performance/screenshot_of_browser_rendering_optim.gif)](https://classroom.udacity.com/courses/ud882)
 
@@ -317,9 +321,20 @@ Special thanks to MadmaxWMFU! )))
     Screenshot of responsive images project.
   </summary>
   
-  ![Screenshot of responsive images project](task_website_performance/screenshot_of_responsive_images.gif)
+  ![Screenshot of responsive images project](task_website_performance/responsive_images_project.gif)
   
 </details>
   
 # 🐈 🐈 🐈 🐈 🐈 🐈 🐈 🐈 🐈 🐈
-  
+
+### What was new:
+DevTools Profiler with timeline, Render pipeline in the browser, requestAnimationFrame(), Web workers.
+
+### What surprised me:
+Web workers are just like goroutines in Golang or threads in C. I didn't think to face it in the browser's JS.
+When I was trying to use 'for' loop for the time delay in web worker I was surprised that only a number of loops up to 20000000 can make a tiny delay that I can identify with my eyes. Browser's JS engine is really very fast. But for 60 fps animations, we have only 12ms for changing the image on the screen with JS.
+
+### What I'm going to use in the future:
+This Website Performance Optimization section is the first time when I read about the performance and timing diagrams in JS.
+Now I understand how I can use it, where I can find bottlenecks of performance... So I think every new project of mine will be checked and improved with these technics in the future.
+
