@@ -314,7 +314,7 @@ Special thanks to MadmaxWMFU! )))
 
 #### Responsive Images, Udacity Course by Google:
 
-[![Responsive Images screenshot](task_website_performance/screenshot_of_browser_rendering_optim.gif)](https://classroom.udacity.com/courses/ud882)
+[![Responsive Images screenshot](task_website_performance/screenshot_of_responsive_images.gif)](https://classroom.udacity.com/courses/ud882)
 
 <details>
   <summary>
