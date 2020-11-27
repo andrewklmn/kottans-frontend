@@ -333,7 +333,7 @@ DevTools Profiler with timeline, Render pipeline in the browser, requestAnimatio
 
 ### What surprised me:
 Web workers are just like goroutines in Golang or threads in C. I didn't think to face it in the browser's JS.
-When I was trying to use 'for' loop for the time delay in web worker I was surprised that only a number of loops up to 20000000 can make a tiny delay that I can identify with my eyes. Browser's JS engine is really very fast. But for 60 fps animations, we have only 12ms for changing the image on the screen with JS.
+When I was trying to use 'for' loop for the time delay in web worker I was surprised that only a number of loops up to (20000000)[https://github.com/andrewklmn/web-worker-test/tree/master] can make a tiny delay that I can identify with my eyes. Browser's JS engine is really very fast. But for 60 fps animations, we have only 12ms for changing the image on the screen with JS.
 
 ### What I'm going to use in the future:
 This Website Performance Optimization section is the first time when I read about the performance and timing diagrams in JS.
