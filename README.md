@@ -14,6 +14,7 @@
 - [X] [Offline Web Applications ](#offline-web-applications)
 - [X] [Memory Pair Game](#memory-pair-game)
 - [X] [Website Performance Optimization](#website-performance-optimization)
+- [ ] [Friends App](#friends-app) 
 
 ---
 
@@ -338,3 +339,9 @@ When I was trying to use 'for' loop for the time delay in web worker I was surpr
 This Website Performance Optimization section is the first time when I read about the performance and timing diagrams in JS.
 Now I understand how I can use it, where I can find bottlenecks of performance... So I think every new project of mine will be checked and improved with these technics in the future.
 
+---
+
+
+### [Friends App](https://github.com/andrewklmn/frontend/blob/master/tasks/friends-app.md)
+
+...coming soon... )))
