@@ -14,7 +14,7 @@
 - [X] [Offline Web Applications ](#offline-web-applications)
 - [X] [Memory Pair Game](#memory-pair-game)
 - [X] [Website Performance Optimization](#website-performance-optimization)
-- [ ] [Friends App](#friends-app) 
+- [X] [Friends App](#friends-app) 
 
 ---
 
