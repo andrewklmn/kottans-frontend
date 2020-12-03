@@ -344,4 +344,10 @@ Now I understand how I can use it, where I can find bottlenecks of performance..
 
 ### [Friends App](https://github.com/andrewklmn/frontend/blob/master/tasks/friends-app.md)
 
-...coming soon... )))
+![Screenshot](memory-pair-game/memory-pair-game.gif)
+
+[Demo is here](https://andrewklmn.github.io/frontend-2021-homeworks/submissions/andrewklmn/friends-app/)
+
+[Code is here](https://github.com/kottans/frontend-2021-homeworks/tree/main/submissions/andrewklmn/friends-app)
+
+[PR is here](https://github.com/kottans/frontend-2021-homeworks/pull/187)
