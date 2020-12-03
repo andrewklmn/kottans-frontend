@@ -344,7 +344,7 @@ Now I understand how I can use it, where I can find bottlenecks of performance..
 
 ### [Friends App](https://github.com/andrewklmn/frontend/blob/master/tasks/friends-app.md)
 
-![Screenshot](memory-pair-game/memory-pair-game.gif)
+![Screenshot](friends_app/screenshot_of_friends_app.gif)
 
 [Demo is here](https://andrewklmn.github.io/frontend-2021-homeworks/submissions/andrewklmn/friends-app/)
 
